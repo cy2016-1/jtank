@@ -1,7 +1,7 @@
 # JTANK
 
 #### 介绍
-JTANK履带车简介：仓鼠的家庭工坊设计的迷你桌面图传遥控车项目，安卓手机app遥控控制，可驾驶，可查看车辆行驶视角，灯光可开启，适合桌面、床上、地板等地形。目前版本为第三版，前面两个版本由于结构问题将停止发布![输入图片说明](%E5%9B%BE%E7%89%87/DSC01903.JPG)
+JTANK履带车简介：仓鼠的家庭工坊设计的迷你桌面图传遥控车项目，安卓手机app遥控控制，可驾驶，可查看车辆行驶视角，灯光可开启，适合桌面、床上、地板等地形。目前版本为第三版，前面两个版本由于结构问题将停止发布![输入图片说明](%E5%9B%BE%E7%89%87/DSC01903.JPG)![输入图片说明](%E5%9B%BE%E7%89%87/DSC01906.JPG)
 
 #### 软件架构
 软件架构说明
@@ -9,7 +9,7 @@ JTANK履带车简介：仓鼠的家庭工坊设计的迷你桌面图传遥控车
 
 #### 安装教程
 
-1.  使用教程：https://www.bilibili.com/video/BV18B4y1R7jP/?spm_id_from=333.999.0.0&vd_source=15add1dfa75341e924b385525cf70f8c
+1.  使用教程：https://www.bilibili.com/video/BV18B4y1R7jP/?spm_id_from=333.999.0.0&vd_source=15add1dfa75341e924b385525cf70f8c![输入图片说明](%E5%9B%BE%E7%89%87/DSC01906.JPG)
 2.  xxxx
 3.  xxxx
 
@@ -35,3 +35,4 @@ JTANK履带车简介：仓鼠的家庭工坊设计的迷你桌面图传遥控车
 4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
 5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
 6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![输入图片说明](%E5%9B%BE%E7%89%87/DSC01903.JPG)
