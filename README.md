@@ -9,7 +9,7 @@ JTANK履带车简介：仓鼠的家庭工坊设计的迷你桌面图传遥控车
 
 #### 安装教程
 
-1.  xxxx
+1.  使用教程：https://www.bilibili.com/video/BV18B4y1R7jP/?spm_id_from=333.999.0.0&vd_source=15add1dfa75341e924b385525cf70f8c
 2.  xxxx
 3.  xxxx
 
